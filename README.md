@@ -28,7 +28,7 @@ Limitations: a small sample, data from 2016, no gender or age information, and u
 
 ## Key findings
 
-* Most tracked time is sedentary or lightly active, so the device is worn for ordinary daily life and not only for workouts.
+* About 79.7% of tracked time was sedentary, so the device is worn for ordinary daily life and not only for workouts.
 * Movement follows a clear daily rhythm, with peaks around midday and early evening.
 * Steps and calories burned move together strongly, but a large part of the day stays sedentary.
 * Fewer users track sleep than activity, and many nights are shorter than seven hours.
